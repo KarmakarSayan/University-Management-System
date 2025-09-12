@@ -36,9 +36,9 @@ The system provides a centralized platform for managing students, faculty, cours
 
 ## 🔹 Purpose & Learning Outcomes
 
-- **This project is designed for educational and professional purposes, showcasing the development of real-world, database-driven applications. Key learnings include:
-- **Integration of Java applications with relational databases.
-- **Implementation of CRUD operations in a desktop environment.
-- **Designing user-friendly GUI interfaces.
-- **Structuring scalable and maintainable code.
-- **Planning future extensions like web, mobile, cloud, and analytics integration.
+- This project is designed for educational and professional purposes, showcasing the development of real-world, database-driven applications. Key learnings include:
+- Integration of Java applications with relational databases.
+- Implementation of CRUD operations in a desktop environment.
+- Designing user-friendly GUI interfaces.
+- Structuring scalable and maintainable code.
+- Planning future extensions like web, mobile, cloud, and analytics integration.
